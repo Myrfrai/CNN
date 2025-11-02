@@ -4,5 +4,4 @@ numpy
 pandas
 matplotlib
 streamlit
-PIL
-io
+Pillow
